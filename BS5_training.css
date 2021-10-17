@@ -1,0 +1,50 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+    border: 1px solid #333;
+    border-radius: 2px;
+}
+.header .btn-outline-dark{
+    background-color: #333;
+    color: white;
+    margin:5px;
+}
+.header .btn-outline-secondary{
+    margin:5px;
+    color: #333;
+    border-color: #333;
+}
+#search{
+    padding-left: 20px;
+    border-color: #333;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 53px;
+}
+.midel{
+    border: 1px solid #333;
+    border-radius: 2px;
+    margin:5px;
+}
+.midel #search{
+    width: 100%;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 15px 90px;
+    color: #333;
+}
+.midel .carousel-inner{
+   padding-left: 15px;
+   padding-right: 15px;
+}
+.row{
+  padding: 15px;
+  
+}
+.btn btn-primary{
+    color: orangered;
+    background-color: rgb(3, 24, 27);
+}
